@@ -7,7 +7,7 @@ Donut code that renders a 3D spinning ASCII donut.
 ./main
 ```
 
-![output](https://user-images.githubusercontent.com/46300167/206301739-1e1823ba-f945-4587-86ed-8a00a4d4929a.gif)
+![output](https://user-images.githubusercontent.com/46300167/206304169-f15cd658-7cdf-4a56-931c-9e0943c43f28.gif)
 
 ## Links:
 [Author GitHub](https://github.com/Martan03)  
